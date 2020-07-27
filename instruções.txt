@@ -1,0 +1,17 @@
+comand usandos nesta aplicação
+criar uma pasta backend
+entar no diretorio da pasta pelo terminal 
+digitar comandos:
+npm -y (para criar json)
+npm i jason-server (criar server - modulos aplicação)
+
+O QUE É O ANGULAR:
+um framework JavaScript desenvolvido pelo google para criação de aplicação Web SPA baseado e componentes.
+
+comandos para instalar angular/cli
+npm i -g @angular/cli
+
+criar um projeto
+ng new (nome_do_projeto) --minimal(pra tirar arquivos desnecessarios)
+colocar sim para criar rotas e css.
+
