@@ -8,10 +8,18 @@ npm i jason-server (criar server - modulos aplicação)
 O QUE É O ANGULAR:
 um framework JavaScript desenvolvido pelo google para criação de aplicação Web SPA baseado e componentes.
 
+criando uma diretiva
+ng g d nomedaDiretiva
+
 comandos para instalar angular/cli
 npm i -g @angular/cli
 
 criar um projeto
 ng new (nome_do_projeto) --minimal(pra tirar arquivos desnecessarios)
 colocar sim para criar rotas e css.
+
+Injeção de dependencia, forncer instacia de um framework
+navigateToProductCreate(): void{
+    this.router.navigate(['/products/create'])
+  }
 

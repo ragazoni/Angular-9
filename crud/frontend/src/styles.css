@@ -1,11 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
 
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
-
-.red{
-    color: rgb(227, 94, 107);
+html, body {
+    height: 100%;
 }
-.v-middle{
+
+body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.red {
+    color: #e35e6b;
+}
+
+.v-middle {
     vertical-align: middle;
+}
+
+.my-snack-bar {
+    background-color: #87CEFA;
+    color: #363636;
 }
