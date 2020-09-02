@@ -1,20 +1,24 @@
-
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "caneta BIC preta",
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "Notebool MAC Pro",
-            "price": 12000.89
-        },
-        {
-            "id": 3,
-            "name": "Sansug S20+",
-            "price": 5000.00
-        }
-    ]
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebool MAC Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Sansug S20+",
+      "price": 5000
+    },
+    {
+      "name": "novo produto",
+      "price": "100.00",
+      "id": 4
+    },
+    {
+      "name": "lapis Preto",
+      "price": "500.00",
+      "id": 5
+    }
+  ]
 }
