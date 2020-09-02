@@ -17,8 +17,18 @@
     },
     {
       "name": "lapis Preto",
-      "price": "500.00",
+      "price": "2.00",
       "id": 5
+    },
+    {
+      "name": "caderno vingadores",
+      "price": "20.00",
+      "id": 6
+    },
+    {
+      "name": "tesoura",
+      "price": "5.00",
+      "id": 7
     }
   ]
 }

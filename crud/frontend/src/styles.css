@@ -17,11 +17,12 @@ body {
     vertical-align: middle;
 }
 
-.my-snack-bar {
-    background-color: #87CEFA;
-    color: #363636;
+.msg-success {
+    background-color: #28a745;
+    color: #fff;
 }
 
-.msg-success{
-    
+.msg-error {
+    background-color: #e35e6b;
+    color: #fff;
 }
